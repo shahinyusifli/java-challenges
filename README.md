@@ -12,3 +12,10 @@ Java challenges for mathematical and interesting problems.
 - Write program for nic noc game
 ### Technical requirements
 - Two person can paly it with cmd
+
+## Task 3
+### Functional requirements
+- Write program for find posible queens in chess board
+### Technical requirements
+- Solution should be rely on simple approach
+
