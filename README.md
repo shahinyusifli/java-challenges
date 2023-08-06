@@ -23,4 +23,7 @@ Java challenges for mathematical and interesting problems.
 ### Functional requirements
 - Program needed for convert roman number to natural numbers
 
+## Task 5
+### Functional requirements
+- Write program which should check two number in golden ratio or not
 
