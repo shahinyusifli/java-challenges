@@ -31,3 +31,7 @@ Java challenges for mathematical and interesting problems.
 ### Functional requirements
 - Divide a line into two segments based on Phi
 
+## Task 7
+### Functional requirements
+- Write program for reversing linked list
+
