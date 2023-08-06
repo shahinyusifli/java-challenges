@@ -42,3 +42,7 @@ Java challenges for mathematical and interesting problems.
 ## Task 9
 ### Functional requirements
 - Write program for find factorial
+
+## Task 10
+### Functional requirements
+- Write program for find string is palindrome or not
