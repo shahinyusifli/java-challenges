@@ -39,3 +39,6 @@ Java challenges for mathematical and interesting problems.
 ### Functional requirements
 - Remove spaces in string
 
+## Task 9
+### Functional requirements
+- Write program for find factorial
