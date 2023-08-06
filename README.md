@@ -46,3 +46,7 @@ Java challenges for mathematical and interesting problems.
 ## Task 10
 ### Functional requirements
 - Write program for find string is palindrome or not
+
+## Task 11
+### Functional requirements
+- Write program for find second largest element
