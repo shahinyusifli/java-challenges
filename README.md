@@ -27,3 +27,7 @@ Java challenges for mathematical and interesting problems.
 ### Functional requirements
 - Write program which should check two number in golden ratio or not
 
+## Task 6
+### Functional requirements
+- Divide a line into two segments based on Phi
+
