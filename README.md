@@ -35,3 +35,7 @@ Java challenges for mathematical and interesting problems.
 ### Functional requirements
 - Write program for reversing linked list
 
+## Task 8
+### Functional requirements
+- Remove spaces in string
+
