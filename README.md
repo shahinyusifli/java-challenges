@@ -19,3 +19,8 @@ Java challenges for mathematical and interesting problems.
 ### Technical requirements
 - Solution should be rely on simple approach
 
+## Task 4
+### Functional requirements
+- Program needed for convert roman number to natural numbers
+
+
