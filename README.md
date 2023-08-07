@@ -70,3 +70,7 @@ Java challenges for mathematical and interesting problems.
 ## Task 16
 ### Functional requirements
 - Write program for binary search
+
+## Task 17
+### Functional requirements
+- Write program to check number in string
