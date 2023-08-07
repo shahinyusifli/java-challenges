@@ -54,3 +54,7 @@ Java challenges for mathematical and interesting problems.
 ## Task 12
 ### Functional requirements
 - Create pyramid by printing to console
+
+## Task 13
+### Functional requirements
+- Write program to find first unrepeated in string
