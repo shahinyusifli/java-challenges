@@ -58,3 +58,8 @@ Java challenges for mathematical and interesting problems.
 ## Task 13
 ### Functional requirements
 - Write program to find first unrepeated in string
+
+## Task 14
+### Functional requirements
+- Write program to compare two strings
+
