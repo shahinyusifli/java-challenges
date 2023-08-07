@@ -63,3 +63,6 @@ Java challenges for mathematical and interesting problems.
 ### Functional requirements
 - Write program to compare two strings
 
+## Task 15
+### Functional requirements
+- Write program to check number is prime or not

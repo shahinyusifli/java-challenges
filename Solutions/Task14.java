@@ -1,7 +1,7 @@
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class Task14 {
+public class CompareTwoStrings {
     public static boolean compareTwoStrings(String word1, String word2) {
 
         boolean consistOfSameLetters;
