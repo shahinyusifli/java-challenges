@@ -78,3 +78,7 @@ Java challenges for mathematical and interesting problems.
 ## Task 18
 ### Functional requirements
 - Write program to check vowels in string
+
+## Task 19
+### Functional requirements
+- Write program to find distinct values in String
