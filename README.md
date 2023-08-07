@@ -50,3 +50,7 @@ Java challenges for mathematical and interesting problems.
 ## Task 11
 ### Functional requirements
 - Write program for find second largest element
+
+## Task 12
+### Functional requirements
+- Create pyramid by printing to console
