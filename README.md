@@ -66,3 +66,7 @@ Java challenges for mathematical and interesting problems.
 ## Task 15
 ### Functional requirements
 - Write program to check number is prime or not
+
+## Task 16
+### Functional requirements
+- Write program for binary search
