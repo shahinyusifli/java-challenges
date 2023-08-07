@@ -74,3 +74,7 @@ Java challenges for mathematical and interesting problems.
 ## Task 17
 ### Functional requirements
 - Write program to check number in string
+
+## Task 18
+### Functional requirements
+- Write program to check vowels in string
